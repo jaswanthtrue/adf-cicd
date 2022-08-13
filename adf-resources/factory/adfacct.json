@@ -1,0 +1,17 @@
+{
+	"name": "adfacct",
+	"properties": {
+		"globalParameters": {
+			"glbparameter": {
+				"type": "string",
+				"value": "1"
+			}
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b6dd444a-3ba3-418a-a9a0-c4c3868b1c24",
+		"tenantId": "457d5685-0467-4d05-b23b-8f817adda47c"
+	}
+}
